@@ -1,0 +1,1 @@
+# Miller-compensated-2-stage-Opamp-Design
